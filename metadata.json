@@ -1,0 +1,6 @@
+{
+  "name": "MedCore AI",
+  "description": "Медицинское веб-приложение с ИИ-триажем, трекером метрик и анализом изображений.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
